@@ -1,6 +1,5 @@
 <script setup>
  import Header from './components/Header/Header.vue'
-  import Footer from './components/Footer/Footer.vue'
 </script>
 <style scoped>
   .allContainer{
@@ -11,6 +10,7 @@
     justify-content: center;
     align-items: center;
     gap: 120px;
+    position: relative;
   }
 </style>
 <template>

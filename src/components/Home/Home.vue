@@ -3,6 +3,8 @@
     import Trending from '../Trending/Trending.vue';
     import Summer from '../Summer/Summer.vue';
     import Winter from '../Winter/Winter.vue';
+    import Footer from '../Footer/Footer.vue';
+
 </script>
 <style scoped>
     .homeContainer{
@@ -18,5 +20,6 @@
         <Trending/>
         <Summer/>
         <Winter/>
+        <Footer/>
     </div>
 </template>

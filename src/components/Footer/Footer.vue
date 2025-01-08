@@ -8,9 +8,7 @@ footer{
     align-items: center;
     background-color: rgb(117, 79, 35);
     padding: 20px 70px;
-    margin-top: 60px;
-    position: fixed;
-    bottom: 0;
+    
 }
 .infoSide{
     display: flex;
