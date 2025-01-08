@@ -5,6 +5,7 @@
 <style scoped>
   .allContainer{
     width: 100%;
+    background-color:rgb(240, 234, 221) ;
     display: flex;
     flex-direction: column;
     justify-content: center;
