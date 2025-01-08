@@ -1,6 +1,7 @@
 <script setup>
     import Intro from '../Intro/Intro.vue'
     import Trending from '../Trending/Trending.vue';
+    import Summer from '../Summer/Summer.vue';
 </script>
 <style scoped>
     .homeContainer{
@@ -14,5 +15,6 @@
     <div class="homeContainer">
         <Intro/>
         <Trending/>
+        <Summer/>
     </div>
 </template>

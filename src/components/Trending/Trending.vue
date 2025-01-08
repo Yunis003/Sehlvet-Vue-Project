@@ -42,7 +42,7 @@
     <div class="trendingContainer">
         <div class="topContainer">
             <div class="txts">
-            <h2>Trending <span>Collections</span></h2>
+            <h2><i>Trending</i> <span>Collections</span></h2>
             <hr>
             </div>
             <p>Have a look on what's trending now!</p>
