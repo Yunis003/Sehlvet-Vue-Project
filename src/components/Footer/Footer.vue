@@ -8,8 +8,8 @@ footer{
     align-items: center;
     background-color: rgb(117, 79, 35);
     padding: 20px 70px;
-    margin-top: 50px;
-    position: absolute;
+    margin-top: 60px;
+    position: fixed;
     bottom: 0;
 }
 .infoSide{
@@ -26,15 +26,12 @@ ul{
     flex-direction: column;
     gap: 10px;
     list-style-type: none;
-    >li a{
-        cursor: pointer;
+}
+ul li a{
+    cursor: pointer;
         text-decoration: none;
         color: #d1c9c0;
         transition: all 0.3s ease;
-        &:hover{
-            color: black;
-        }
-    }
 }
 </style>
 

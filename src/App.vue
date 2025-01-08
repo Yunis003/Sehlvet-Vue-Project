@@ -9,13 +9,13 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 60px;
+    gap: 120px;
   }
 </style>
 <template>
   <div class="allContainer">
   <Header />
   <router-view></router-view>
-  <Footer />
+  <!-- <Footer /> -->
   </div>
 </template>
