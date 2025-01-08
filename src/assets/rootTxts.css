@@ -1,0 +1,22 @@
+.topContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 500px;
+}
+.topContainer hr{
+    width: 150px
+}
+.txts{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.txts h2{
+    font-size: 3rem;
+    color: #2F2F2F;
+}
+.txts h2 span{
+    font-size: 2rem;
+    color: #754F23;
+}
